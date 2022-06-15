@@ -1,1 +1,44 @@
 
+
+#dropdown08 {color: black;}
+h1{text-align: center;
+    font-size: 20px;}
+    h6{font-size: 40px;}
+    h5{font-size: 18px;}
+    h3{color: black;
+    font-size: 30px;}
+    
+    h4{background-color: white;
+    font-size: 30px;
+    margin-bottom: 17px;
+    margin-top: 2rem;
+    text-align: center;
+    font-family: Arvo;}
+    
+    .jhon {margin-top: -10.5rem;
+    padding: 50;
+    line-height: 1.5rem;
+    background-color: white;
+    font-size: 15px;}
+    
+    .europe {
+        margin-top: -2.5rem;
+        padding: 50;
+        line-height: 1.5rem;
+        font-size: 15px;
+    }
+    
+    .europe span {
+        background-color: white;
+        padding: 0.5rem;
+        font-size: 14px;
+    }
+    
+    .travel-advice {
+        margin-top: -5rem;
+        padding-left: 8px;
+    }
+    
+    .travel-advice h3 {
+        color: white;
+    }
